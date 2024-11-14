@@ -24,6 +24,8 @@ export default function Home() {
           <br/>
 
           <a href="https://www.muskvpn.com">&copy; muskvpn.com</a>
+          &nbsp;
+          Contact: support@muskvpn.com
         </div>
       </main>
       
